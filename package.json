@@ -1,10 +1,20 @@
 {
   "name": "dark-smithy",
   "displayName": "Dark Smithy",
-  "description": "The Dark Smithy Visual Studio Code theme brings a touch of the medieval to your code editor with its dark, sooty background and easily readable foreground. The color scheme is inspired by the intense heat of the blacksmith's forge and the anvils used to create metal objects and weapons. With the contrast between the dark background and light foreground, you'll be able to distinguish between variables, classes, functions, and more with ease. Whether you're a medieval history buff or just love a good sooty look, this theme is sure to make your coding experience feel unique and inspired.",
-  "version": "0.0.1",
+  "description": "Dark visual studio code theme",
+  "repository": {
+    "url": "https://github.com/michaelassaf/dark-smithy",
+    "type": "git"
+  },
+  "publisher": "michaelassaf",
+  "license": "MIT",
+  "version": "0.0.2",
+  "icon": "icons/blacksmith.png",
   "engines": {
     "vscode": "^1.75.0"
+  },
+  "author": {
+    "name": "Michael Assaf"
   },
   "categories": [
     "Themes"
