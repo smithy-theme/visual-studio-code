@@ -3,8 +3,14 @@
   "colors": {
     "editor.background": "#221d1d",
     "editor.foreground": "#EEFFFF",
-    "activityBarBadge.background": "#007ACC",
-    "sideBarTitle.foreground": "#BBBBBB"
+    "activityBarBadge.background": "#ff5107",
+    "sideBarTitle.foreground": "#BBBBBB",
+    "sideBarSectionHeader.background": "#d23030",
+    "sideBarSectionHeader.foreground": "#FFFFFF",
+    "sideBar.background": "#141313",
+    "sideBar.foreground": "#FFFFFF",
+    "sideBar.border": "#d23030",
+    "sideBarSectionHeader.border": "#d23030"
   },
   "tokenColors": [
     {
@@ -146,7 +152,15 @@
         "support.type.sys-types"
       ],
       "settings": {
-        "foreground": "#d75656",
+        "foreground": "#f5b682",
+        "fontStyle": ""
+      }
+    },
+    {
+      "name": "Class, Support",
+      "scope": ["entity.name.type.declaration"],
+      "settings": {
+        "foreground": "#f35353",
         "fontStyle": ""
       }
     },
@@ -187,7 +201,7 @@
         "variable.other.class.js"
       ],
       "settings": {
-        "foreground": "#FF5370"
+        "foreground": "#ece1e3"
       }
     },
     {
@@ -195,7 +209,7 @@
       "scope": ["variable.language"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#FF5370"
+        "foreground": "#d3d3d3"
       }
     },
     {

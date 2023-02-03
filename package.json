@@ -1,9 +1,9 @@
 {
   "name": "dark-smithy",
-  "displayName": "Dark Smithy",
-  "description": "Dark visual studio code theme",
+  "displayName": "Smithy Official",
+  "description": "Official Smithy Theme. A dark theme made for creators.",
   "repository": {
-    "url": "https://github.com/michaelassaf/dark-smithy",
+    "url": "https://github.com/smithy-theme/visual-studio-code",
     "type": "git"
   },
   "publisher": "michaelassaf",
