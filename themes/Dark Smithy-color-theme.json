@@ -1,16 +1,49 @@
 {
-  "name": "Dark Smithy",
+  "name": "Smithy Official",
   "colors": {
+    // editor
     "editor.background": "#221d1d",
     "editor.foreground": "#EEFFFF",
-    "activityBarBadge.background": "#ff5107",
-    "sideBarTitle.foreground": "#BBBBBB",
-    "sideBarSectionHeader.background": "#d23030",
+
+    // active bar
+    "activityBarBadge.background": "#6a0000",
+
+    // sidebar title
+    "sideBarTitle.foreground": "#ffffff",
+
+    // sidebar section header
+    "sideBarSectionHeader.background": "#4a0000",
     "sideBarSectionHeader.foreground": "#FFFFFF",
-    "sideBar.background": "#141313",
+    "sideBarSectionHeader.border": "#6a0000",
+
+    // sidebar
+    "sideBar.background": "#210d0d",
     "sideBar.foreground": "#FFFFFF",
-    "sideBar.border": "#d23030",
-    "sideBarSectionHeader.border": "#d23030"
+    "sideBar.border": "#6a0000",
+
+    // buttons
+    "button.background": "#ff0000",
+    "button.foreground": "#FFFFFF",
+
+    // title bar
+    "titleBar.activeBackground": "#4a0000",
+
+    // activity bar
+    "activityBar.activeBackground": "#840000",
+    "activityBar.activeBorder": "#6a0000",
+    "activityBar.background": "#4a0000",
+
+    // status bar
+    "statusBar.background": "#4a0000",
+    "statusBar.foreground": "#FFFFFF",
+    "statusBarItem.hoverBackground": "#840000",
+
+    // editor selection dropdown
+    "selection.background": "#840000",
+
+    // selecting options from the dropdown menu
+    "list.hoverBackground": "#4a0000",
+    "list.activeSelectionBackground": "#840000"
   },
   "tokenColors": [
     {
@@ -168,8 +201,7 @@
       "name": "Class, Support",
       "scope": ["entity.name.function", "entity.name.type.option.rust"],
       "settings": {
-        "foreground": "#f9ff7e",
-        "fontStyle": "bold"
+        "foreground": "#f9ff7e"
       }
     },
     {
