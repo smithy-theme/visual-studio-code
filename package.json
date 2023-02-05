@@ -8,7 +8,7 @@
   },
   "publisher": "michaelassaf",
   "license": "MIT",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "icon": "icons/blacksmith.png",
   "engines": {
     "vscode": "^1.75.0"
