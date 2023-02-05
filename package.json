@@ -8,7 +8,7 @@
   },
   "publisher": "michaelassaf",
   "license": "MIT",
-  "version": "0.0.9",
+  "version": "0.1.0",
   "icon": "icons/blacksmith.png",
   "engines": {
     "vscode": "^1.75.0"
@@ -25,6 +25,11 @@
         "label": "Smithy Bronze",
         "uiTheme": "vs-dark",
         "path": "./themes/smithy-bronze.json"
+      },
+      {
+        "label": "Smithy Iron",
+        "uiTheme": "vs-dark",
+        "path": "./themes/smithy-iron.json"
       }
     ]
   }
