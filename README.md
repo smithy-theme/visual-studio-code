@@ -6,7 +6,11 @@
 
 ### Smithy Bronze
 
-![Screenshot](./icons/snapshot.png)
+![Screenshot](./icons/smithy-bronze.png)
+
+### Smithy Iron
+
+![Screenshot](./icons/smithy-iron.png)
 
 ## License
 
