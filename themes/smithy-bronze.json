@@ -78,6 +78,13 @@
       }
     },
     {
+      "name": "entity.name.type.declaration.rust",
+      "scope": "entity.name.type.declaration.rust",
+      "settings": {
+        "foreground": "#FFB162"
+      }
+    },
+    {
       "name": "variable.language.rust",
       "scope": "variable.language.rust",
       "settings": {
