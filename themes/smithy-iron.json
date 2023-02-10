@@ -88,7 +88,7 @@
       "name": "entity.name.type.rust",
       "scope": "entity.name.type.rust",
       "settings": {
-        "foreground": "#FFB162"
+        "foreground": "#ffc182"
       }
     },
     {
